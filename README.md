@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hello! I'm Taha, a passionate software developer and technology enthusiast. Here on my GitHub profile, you will find a variety of repositories showcasing my coding skills, personal projects, and contributions to the open-source community.
+Hello! I'm Taha, a passionate information systems student and technology enthusiast. Here on my GitHub profile, you will find a variety of repositories showcasing my coding skills, personal projects, and contributions to the open-source community.
 
 ## About Me
 
